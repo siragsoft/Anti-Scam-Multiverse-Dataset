@@ -38,4 +38,4 @@ Contact for exclusive licenses or large vertical expansions (e.g. 500k rows).
 ---
 
 ## 🚀 Interested in the **full dataset (50k+)** with PMAI generator script & commercial rights?
-📩 Contact: admin@siragsoft.com
+📩 Contact: siragsoft@gmail.com
